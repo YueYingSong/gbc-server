@@ -1,0 +1,15 @@
+2016/10/31 10:54:16 [alert] 36588#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 10:54:46 [alert] 36636#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 10:56:10 [alert] 36694#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 10:57:28 [alert] 36758#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 10:59:07 [alert] 36825#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 11:13:27 [alert] 38160#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 11:13:55 [alert] 38223#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 11:17:57 [alert] 38328#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 11:19:26 [alert] 38388#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 11:20:40 [alert] 38447#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 11:21:13 [alert] 38494#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 11:21:39 [alert] 38543#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 11:22:55 [alert] 38599#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 11:23:56 [alert] 38651#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41
+2016/10/31 11:26:41 [alert] 38731#0: lua_code_cache is off; this will hurt performance in /Users/dev/Documents/gbc-server/tmp/nginx.conf:41

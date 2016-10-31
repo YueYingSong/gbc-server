@@ -1,0 +1,39 @@
+2016-10-31 10:54:15,072 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 10:54:45,467 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 10:56:09,223 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 10:57:27,152 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 10:59:06,633 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 11:13:26,157 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 11:13:50,205 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/dev/Documents/gbc-server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/dev/Documents/gbc-server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/dev/Documents/gbc-server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/dev/Documents/gbc-server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/dev/Documents/gbc-server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2016-10-31 11:13:54,930 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 11:17:46,279 ERRO Web interface error:Traceback (most recent call last):
+  File "/Users/dev/Documents/gbc-server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/Users/dev/Documents/gbc-server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/Users/dev/Documents/gbc-server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/Users/dev/Documents/gbc-server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/Users/dev/Documents/gbc-server/bin/python_env/gbc/lib/python2.7/site-packages/supervisor-3.3.1-py2.7.egg/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2016-10-31 11:17:56,163 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 11:19:25,280 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 11:20:39,111 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 11:21:12,391 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 11:21:38,334 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 11:22:54,257 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 11:23:55,633 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-10-31 11:26:40,220 CRIT Server 'unix_http_server' running without any HTTP authentication checking

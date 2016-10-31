@@ -1,0 +1,92 @@
+[INFO] [welcome:36589] ready, waiting for job
+[INFO] [welcome:36590] ready, waiting for job
+[WARN] [welcome:36589] reserve job failed, closed
+[WARN] [welcome:36590] reserve job failed, closed
+[INFO] [welcome:36633] ready, waiting for job
+[INFO] [welcome:36634] ready, waiting for job
+[WARN] [welcome:36634] reserve job failed, closed
+[WARN] [welcome:36633] reserve job failed, closed
+[INFO] [welcome:36692] ready, waiting for job
+[INFO] [welcome:36691] ready, waiting for job
+[WARN] [welcome:36691] reserve job failed, closed
+[WARN] [welcome:36692] reserve job failed, closed
+[INFO] [welcome:36756] ready, waiting for job
+[INFO] [welcome:36755] ready, waiting for job
+[INFO] [welcome:36756] get a job 459, action: /jobs/jobs.echo
+[INFO] [welcome:36756] job 459 done
+[INFO] [welcome:36756] get a job 466, action: /jobs/jobs.echo
+[INFO] [welcome:36756] job 466 done
+[INFO] [welcome:36755] get a job 467, action: /jobs/jobs.echo
+[INFO] [welcome:36755] job 467 done
+[INFO] [welcome:36755] get a job 468, action: /jobs/jobs.echo
+[INFO] [welcome:36755] job 468 done
+[INFO] [welcome:36756] get a job 469, action: /jobs/jobs.echo
+[INFO] [welcome:36756] job 469 done
+[INFO] [welcome:36756] get a job 470, action: /jobs/jobs.echo
+[INFO] [welcome:36756] job 470 done
+[INFO] [welcome:36755] get a job 471, action: /jobs/jobs.echo
+[INFO] [welcome:36755] job 471 done
+[INFO] [welcome:36755] get a job 478, action: /jobs/jobs.echo
+[INFO] [welcome:36755] job 478 done
+[INFO] [welcome:36756] get a job 479, action: /jobs/jobs.echo
+[INFO] [welcome:36756] job 479 done
+[INFO] [welcome:36756] get a job 480, action: /jobs/jobs.echo
+[INFO] [welcome:36756] job 480 done
+[INFO] [welcome:36755] get a job 481, action: /jobs/jobs.echo
+[INFO] [welcome:36755] job 481 done
+[INFO] [welcome:36755] get a job 482, action: /jobs/jobs.echo
+[INFO] [welcome:36755] job 482 done
+[INFO] [welcome:36756] get a job 483, action: /jobs/jobs.echo
+[INFO] [welcome:36756] job 483 done
+[INFO] [welcome:36756] get a job 490, action: /jobs/jobs.echo
+[INFO] [welcome:36756] job 490 done
+[INFO] [welcome:36755] get a job 491, action: /jobs/jobs.echo
+[INFO] [welcome:36755] job 491 done
+[INFO] [welcome:36755] get a job 492, action: /jobs/jobs.echo
+[INFO] [welcome:36755] job 492 done
+[INFO] [welcome:36756] get a job 493, action: /jobs/jobs.echo
+[INFO] [welcome:36756] job 493 done
+[WARN] [welcome:36755] reserve job failed, closed
+[WARN] [welcome:36756] reserve job failed, closed
+[INFO] [welcome:36823] ready, waiting for job
+[INFO] [welcome:36822] ready, waiting for job
+[WARN] [welcome:36823] reserve job failed, closed
+[WARN] [welcome:36822] reserve job failed, closed
+[INFO] [welcome:38157] ready, waiting for job
+[INFO] [welcome:38158] ready, waiting for job
+[WARN] [welcome:38158] reserve job failed, closed
+[WARN] [welcome:38157] reserve job failed, closed
+[INFO] [welcome:38220] ready, waiting for job
+[INFO] [welcome:38221] ready, waiting for job
+[WARN] [welcome:38220] reserve job failed, closed
+[WARN] [welcome:38221] reserve job failed, closed
+[INFO] [welcome:38326] ready, waiting for job
+[INFO] [welcome:38325] ready, waiting for job
+[WARN] [welcome:38325] reserve job failed, closed
+[WARN] [welcome:38326] reserve job failed, closed
+[INFO] [welcome:38386] ready, waiting for job
+[INFO] [welcome:38385] ready, waiting for job
+[WARN] [welcome:38386] reserve job failed, closed
+[WARN] [welcome:38385] reserve job failed, closed
+[INFO] [welcome:38445] ready, waiting for job
+[INFO] [welcome:38444] ready, waiting for job
+[WARN] [welcome:38445] reserve job failed, closed
+[WARN] [welcome:38444] reserve job failed, closed
+[INFO] [welcome:38492] ready, waiting for job
+[INFO] [welcome:38491] ready, waiting for job
+[WARN] [welcome:38492] reserve job failed, closed
+[WARN] [welcome:38491] reserve job failed, closed
+[INFO] [welcome:38540] ready, waiting for job
+[INFO] [welcome:38541] ready, waiting for job
+[WARN] [welcome:38540] reserve job failed, closed
+[WARN] [welcome:38541] reserve job failed, closed
+[INFO] [welcome:38596] ready, waiting for job
+[INFO] [welcome:38597] ready, waiting for job
+[WARN] [welcome:38596] reserve job failed, closed
+[WARN] [welcome:38597] reserve job failed, closed
+[INFO] [welcome:38649] ready, waiting for job
+[INFO] [welcome:38648] ready, waiting for job
+[WARN] [welcome:38649] reserve job failed, closed
+[WARN] [welcome:38648] reserve job failed, closed
+[INFO] [welcome:38728] ready, waiting for job
+[INFO] [welcome:38729] ready, waiting for job
